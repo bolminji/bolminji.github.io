@@ -1,5 +1,8 @@
 # Insurance Commercial Underwriting Assistant but seeking for Data Analyst job
 
+## Technical SkillS 
+ProgreSQL, PowerBI
+
 ### Education
 University of Calgary 
 Bachelor of Science, Mathematical Statistics 
